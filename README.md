@@ -4,7 +4,7 @@ jeeshop的复制过来进行二次开发
 开源电商系统jeeshop的springmvc版
 开发文档:Jeeshop独立网店系统(B2C)开发文档 v1.1.0.doc
 
-
+参考网址：http://luckytyy.iteye.com/blog/2146498
 1数据库初始化脚本：git_jeeshop.sql
 2mybatis数据库配置：\src\main\resources\dataSource.properties
 3部署到tomcat则可以直接运行。
